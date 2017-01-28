@@ -2,7 +2,7 @@
 This Magento 2 module adds the ability to add an extra language file to
 your theme. 
 
-# Overview
+## Overview
 Every theme has the ability to override language strings in a file like
 `i18n/en_US.csv`. This module allows you to add a second file
 `i18n/en_US_additional.csv` which is loaded on top of the original file.
