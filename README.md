@@ -16,5 +16,7 @@ Install this module within Magento 2 using composer:
 
     composer require yireo/additional-language-file
 
+And of course afterwards use the regular commands to enable the module.
+
 ## Technical architecture
 This module remaps the preference for the original `Magento\Framework\Translate` file to a new class.
