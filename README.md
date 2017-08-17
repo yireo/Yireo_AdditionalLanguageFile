@@ -14,7 +14,7 @@ file.
 ## Installation
 Install this module within Magento 2 using composer:
 
-    composer require yireo/additional-language-file
+    composer require yireo/magento2-additional-language-file
 
 And of course afterwards use the regular commands to enable the module.
 
