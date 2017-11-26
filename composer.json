@@ -3,7 +3,7 @@
   "license": "OSL-3.0",
   "type": "magento2-module",
   "version": "0.1.1",
-  "homepage": "",
+  "homepage": "https://github.com/yireo/Yireo_AdditionalLanguageFile",
   "description": "",
   "keywords":[ "composer-installer", "magento"],
   "authors": [
