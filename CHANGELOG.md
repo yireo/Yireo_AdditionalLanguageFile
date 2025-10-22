@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 22 October 2025
+### Fixed
+- Add new CI files
+- Note on PWA
+- Coding style
+- Fix homepage
+- Increase requirements
+- Update README.md
+
 ## [0.0.1] - 22 October 2025
 ### Added
 - Initial release
