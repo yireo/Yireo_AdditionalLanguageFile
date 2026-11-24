@@ -11,5 +11,9 @@
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Yireo_AdditionalLanguageFile" setup_version="0.1.0">
-        </module>
+        <sequence>
+            <module name="Magento_Theme"/>
+            <module name="Magento_Translation"/>
+        </sequence>
+    </module>
 </config>

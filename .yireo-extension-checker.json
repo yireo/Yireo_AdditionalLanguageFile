@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        "Magento_Theme",
+        "Magento_Translation",
+        "magento/module-theme",
+        "magento/module-translation"
+    ]
+}
