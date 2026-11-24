@@ -19,6 +19,11 @@ the `en_US.csv` which is then inherited in the child theme. Yet using
 this module, you can make specific overrides in the additional language
 file.
 
+## Security
+Translations are rendered as part of the HTML and JavaScript output of
+Magento, often without escaping. Treat a `*_additional.csv` file as code:
+keep it under version control and review its changes, just like a template.
+
 ## Installation
 Install this module within Magento 2 using composer:
 
