@@ -6,5 +6,27 @@
         "Magento_Translation"
     ],
     "phpcs_severity": "6",
-    "phpstan_level": "9"
+    "phpstan_level": "9",
+    "php_versions": [
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4"
+    ],
+    "skip_magento_versions": [],
+    "skip_css_utils": false,
+    "modules": [
+        "Magento_Csp",
+        "Magento_Directory",
+        "Magento_Store",
+        "Magento_Theme",
+        "Magento_Translation"
+    ],
+    "components": [],
+    "config": [],
+    "tests": {
+        "unit": 0,
+        "integration": 4,
+        "functional": 0
+    }
 }
